@@ -8,7 +8,7 @@ body.pagina-login {
 }
 
 body.registro {
-    background: rgba(0, 0, 0, 0.67) url(../images/loginfondo.avif)
+    background: rgba(0, 0, 0, 0.67) url(../images/loginfondo.avif);
 }
 
 body {
